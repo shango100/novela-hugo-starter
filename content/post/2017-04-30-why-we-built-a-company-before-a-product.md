@@ -1,7 +1,7 @@
 ---
 title: Why I must take this to the end
 date: 2017-04-30
-hero: "/images/prof.jpg"
+hero: ''
 excerpt: 'I almost gave up after it crashed '
 timeToRead: 3
 authors:

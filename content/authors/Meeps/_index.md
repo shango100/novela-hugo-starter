@@ -1,9 +1,9 @@
 ---
 title: Meeps
-bio: 'Writte your intro here, add whatever links to ur social media if u like too
+bio: 'Its me na dunno wat to write
 
 '
-avatar: "/images/thiago-costa.jpg"
+avatar: "/images/prof.jpg"
 featured: true
 social:
 - title: github

@@ -3,7 +3,7 @@ title: Meeps
 bio: 'Its me na dunno wat to write
 
 '
-avatar: "/images/prof.jpg"
+avatar: ''
 featured: true
 social:
 - title: github

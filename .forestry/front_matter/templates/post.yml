@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/digital-scrap-book-failed.md
 - content/post/gift-to-the-cutest.md

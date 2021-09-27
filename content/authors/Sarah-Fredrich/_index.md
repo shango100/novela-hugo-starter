@@ -8,5 +8,7 @@ featured: true
 social:
 - title: Instagram
   url: https://www.instagram.com/sasa97f/
+- title: Facebook
+  url: https://www.facebook.com/sarah.fredrich.5
 
 ---
